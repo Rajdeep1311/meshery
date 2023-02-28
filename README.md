@@ -38,13 +38,13 @@
 MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT
 </p>
 <p align="center">
-<img src=".github/assets/images/readme/cncf-white.svg#gh-dark-mode-only" width="30%" align="center" />
+<img src="https://user-images.githubusercontent.com/113296626/221779145-281995ac-e569-43d0-bfb9-94daac364aa9.png" width="30%" align="center" />
 <img src=".github/assets/images/readme/cncf-black.svg#gh-light-mode-only" width="30%" align="center" />
 </p>
 
 <h2><a name="running"></a>Get Started with Meshery</h2>
 <p style="clear:both;">
-<img alt="Control Kubernetes and your workloads with mesheryctl" src=".github/assets/images/readme/mesheryctl.png"  style="margin-left:10px; margin-bottom:10px;" width="50%" align="right"/>
+<img alt="Control Kubernetes and your workloads with mesheryctl" src="https://user-images.githubusercontent.com/113296626/221779015-bd4e1148-a783-4c21-ad6f-1840dbf74ab4.png"  style="margin-left:10px; margin-bottom:10px;" width="60%" align="right"/>
 <h3>Using `mesheryctl`</h3>
 <p>Meshery runs as a set of containers inside or outside of your Kubernetes clusters.</p>
 <pre>curl -L https://meshery.io/install | bash -</pre>
