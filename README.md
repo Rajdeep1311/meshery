@@ -37,7 +37,7 @@ MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT
 </p>
 
 <picture>
-    <source srcset="https://github.com/Rajdeep1311/meshery/assets/113296626/b2790e6d-eccf-4829-a453-b99711e1e4e1"  media="(prefers-color-scheme: dark)">
+    <source srcset="https://github.com/Rajdeep1311/meshery/assets/113296626/e772422b-5ca8-4288-bbd3-386051e33894"  media="(prefers-color-scheme: dark)">
     <img src="https://github.com/Rajdeep1311/meshery/assets/113296626/c31084f2-06db-428e-8204-a22d9ba91658">
 </picture>
 <br />
