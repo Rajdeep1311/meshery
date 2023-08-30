@@ -36,10 +36,12 @@ alt="Meshery Logo" width="70%" /></picture></a><br /><br /></p>
 MESHERY IS A CLOUD NATIVE COMPUTING FOUNDATION PROJECT
 </p>
 
-<picture>
-    <source srcset="https://github.com/Rajdeep1311/meshery/assets/113296626/e772422b-5ca8-4288-bbd3-386051e33894"  media="(prefers-color-scheme: dark)">
-    <img width="707" height="353" src="https://github.com/Rajdeep1311/meshery/assets/113296626/c31084f2-06db-428e-8204-a22d9ba91658">
-</picture>
+<p align="center">
+ <picture>
+    <source width=500" height="250" srcset="https://github.com/Rajdeep1311/meshery/assets/113296626/e772422b-5ca8-4288-bbd3-386051e33894"  media="(prefers-color-scheme: dark)">
+    <img width="400" height="250" src="https://github.com/Rajdeep1311/meshery/assets/113296626/c31084f2-06db-428e-8204-a22d9ba91658">
+ </picture>
+</p>
 <br />
 <p align="center">
 A self-service engineering platform, <a href="https://meshery.io">Meshery</a>, is the open source, cloud native manager that enables the design and management of all Kubernetes-based infrastructure and applications. Among other features,  As an extensible platform, Meshery offers visual and collaborative GitOps, freeing you from the chains of YAML while managing Kubernetes multi-cluster deployments.
