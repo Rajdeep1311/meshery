@@ -7,13 +7,13 @@
 /* Styles for light mode */
 @media (prefers-color-scheme: light) {
   .logo {
-    content: url('.github/assets/images/readme/cncf-white.svg');
+    content: url('.github/assets/images/readme/cncf-black.svg');
   }
 }
 
 /* Styles for dark mode */
 @media (prefers-color-scheme: dark) {
   .logo {
-    content: url('.github/assets/images/readme/cncf-black.svg');
+    content: url('.github/assets/images/readme/cncf-white.svg');
   }
 }
